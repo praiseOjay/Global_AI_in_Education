@@ -1,8 +1,5 @@
 # 🤖 Global AI in Education Dashboard (2015–2026)
 
-> \*\*Power BI Report | Data Source: Kaggle\*\*
-> A comprehensive business intelligence dashboard analysing global Artificial Intelligence adoption trends in education systems across 10 countries from 2015 to 2026.
-
 \---
 
 ## 📌 Table of Contents
@@ -259,6 +256,3 @@ Under the following terms:
 * **Data Inspiration:** Global EdTech and AI policy research literature
 
 \---
-
-*README generated for the Global AI in Education Power BI Project — 2015 to 2026.*
-
